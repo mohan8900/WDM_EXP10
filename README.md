@@ -27,8 +27,8 @@
 
 ### Output:
 ```
-Name:Bhavishya reddy Mitta
-RegNo:212221230061
+Name:A K MOHAN RAJ
+RegNo:212221230064
 ```
 
 ![image](https://github.com/Nagajyothichinta/WDM_EXP10/assets/94191344/cea67abb-c8c2-4dd8-930f-932cf3bbab88)
